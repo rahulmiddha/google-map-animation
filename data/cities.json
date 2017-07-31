@@ -1,0 +1,53 @@
+[
+  {
+    "City": "Cairns City",
+    "State": "QLD",
+    "Latitude": "-16.925491",
+    "Longitude": "145.754120"
+  },
+  { "City": "Perth",
+    "State": "WA",
+    "Latitude": "-31.953512",
+    "Longitude": "115.857048"
+  },
+  { "City": "Mildura",
+    "State": "VIC",
+    "Latitude": "-34.206841",
+    "Longitude": "142.136490"
+  },
+  { "City": "Ziyou Today",
+    "State": "Victoria",
+    "Latitude": "-37.649967",
+    "Longitude": "144.880600"
+  },
+  { "City": "Coffs Harbour",
+    "State": "NSW",
+    "Latitude": "-30.296276",
+    "Longitude": "153.114136"
+  },
+  { "City": "Orange",
+    "State": "NSW",
+    "Latitude": "-33.283577",
+    "Longitude": "149.101273"
+  },
+  { "City": "Albury",
+    "State": "NSW",
+    "Latitude": "-36.080780",
+    "Longitude": "146.916473"
+  },
+  { "City": "Wollongong",
+    "State": "NSW",
+    "Latitude": "-34.425072",
+    "Longitude": "150.893143"
+  },
+  { "City": "Darwin",
+    "State": "Northern Territory",
+    "Latitude": "-12.462827",
+    "Longitude": "130.841782"
+  },
+  { "City": "Terrey Hills",
+    "State": "NSW",
+    "Latitude": "-33.683212",
+    "Longitude": "151.224396"
+  }
+]
